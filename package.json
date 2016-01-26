@@ -22,8 +22,5 @@
     "eslint-plugin-import": "^0.12.1",
     "eslint-plugin-react": "^3.16.0",
     "webpack": "^1.12.12"
-  },
-  "dependencies": {
-    "webpack-partial": "^1.0.0"
   }
 }
